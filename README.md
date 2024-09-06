@@ -1,7 +1,2 @@
-#Tender Price And Bid Success Analysis For Railroad Equipment Supplier
-
-Cleaned, Arranged and preprocessed datasets to ensure data for accuracy.
-Analyzed tender prices to improve bid success rates and optimize pricing strategies.
-Designed Power BI dashboard for tender performance and pricing analysis.
-Tools Used: Business & Data Understanding, Data Analysis, Business Intelligence, Excel, SQL, Data 
-Visualization Using Power BI.
+## Tender Price Analysis For Railroad Equipment Supplier
+The project focused on addressing the issue of losing tenders to competitors, which was leading to significant revenue loss for a leading railroad equipment supplier. To improve bid success, we analyzed historical tender data and refined pricing strategies. The data was collected and preprocessed using SQL and Excel, followed by in-depth analysis with Power BI to optimize bidding strategies. This approach resulted in a 10% increase in bid success rate and improved profit margins by 5-10% through more effective pricing strategies.
