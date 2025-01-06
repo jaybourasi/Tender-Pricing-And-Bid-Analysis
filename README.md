@@ -68,14 +68,11 @@ This repository contains the Tender Price Analysis Report and supporting visuali
 
 The following dashboards provide visual representations of the insights:
 
-### 1. Market Share and Win Rate
-![Market Share Dashboard](https://github.com/jaybourasi/Tender-Pricing-And-Bid-Analysis/blob/main/Images/Overview.png)
+### 1. Overview
+![Market Share Dashboard](https://github.com/jaybourasi/Tender-Pricing-And-Bid-Analysis/blob/main/Images/Dashboard%20-%20Overview.png)
 
-### 2. Quantity Distribution
-![Quantity Distribution Dashboard](https://github.com/jaybourasi/Tender-Pricing-And-Bid-Analysis/blob/main/Images/Price%20Analysis.png)
-
-### 3. Material Type Distribution
-![Material Type Dashboard](https://github.com/jaybourasi/Tender-Pricing-And-Bid-Analysis/blob/main/Images/Bid%20Analysis.png)
+### 2. Bid Analysis
+![Quantity Distribution Dashboard](https://github.com/jaybourasi/Tender-Pricing-And-Bid-Analysis/blob/main/Images/Bids%20Analysis.png)
 
 ---
 
