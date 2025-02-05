@@ -24,9 +24,6 @@ This repository contains the Tender Price Analysis Report and supporting visuali
 ### Objectives:
 - **Business Objective**: Maximize bid success.
 - **Constraint**: Minimize losses from overpricing or underpricing.
-- **Success Metrics**:
-  - **Business**: Increase bid win rate by 10%.
-  - **Economic**: Improve profit margins by 5-10%.
 
 ---
 
