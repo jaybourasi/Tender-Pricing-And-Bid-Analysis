@@ -7,6 +7,14 @@ This repository contains the Tender Price Analysis Report and supporting visuali
 
 ## Project Details
 
+### Steps
+Business Understanding – Identified the project’s business problem: frequent bid losses causing revenue decline. Defined objectives to optimize pricing strategies and increase bid success.
+Data Collection – Gathered historical bid data from SQL databases and Excel.
+Data Cleaning & Preparation – Removed duplicates, handled missing values, and standardized data.
+Exploratory Data Analysis (EDA) – Analyzed bid success trends and competitor pricing.
+Data Visualization (Power BI) – Built interactive dashboards for bid performance insights.
+Insights & Recommendations – Suggested optimal pricing strategies to maximize bid success.
+
 ### Client:
 - Leading Railroad Equipment Supplier
 
