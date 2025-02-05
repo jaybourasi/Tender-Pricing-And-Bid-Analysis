@@ -7,7 +7,7 @@ This repository contains the Tender Price Analysis Report and supporting visuali
 
 ## Project Details
 
-### Steps
+### Steps:
 - Business Understanding – Identified the project’s business problem: frequent bid losses causing revenue decline. Defined objectives to optimize pricing strategies and increase bid success.
 - Data Collection – Gathered historical bid data from research articles and external sources.
 - Data Cleaning & Preparation – Removed duplicates, handled missing values, and standardized data in Excel and SQL.
